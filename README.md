@@ -2,7 +2,7 @@
 
 The **Authors Text Editor** app can help you easily document and track the progress of your stories, researches, and documentation and more. This is also very helpful if your an author/writer because this app is made mainly for them.
 
-![Authors Text Editor](https://aia-unknown.github.io/Portfolio/images/authors-text-editor.png)
+![Authors Text Editor](https://scontent.fmnl8-1.fna.fbcdn.net/v/t1.15752-9/277999402_403323507920519_4110520407997056789_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeGQseXn3WMXeIAOWuR9IoLVqEruq8vLG4eoSu6ry8sbhwkEaa8KedxwXoC4QsuSrugOXiP4Xd74i84MLZS7J9jT&_nc_ohc=AS0s31B9TxUAX_93CYF&tn=7j6DMhQAKkLy_jyd&_nc_ht=scontent.fmnl8-1.fna&oh=03_AVI6gIUOKpQ_6M_IjLFEJx1T9dUx-vRDgRgNl7sO-5N--w&oe=6282F385)
 
 ## Setup
 
@@ -24,9 +24,9 @@ After installing the requirements above, follow the steps below:
 
 * Clone the repository from my github using HTTPS or SSH:
   * HTTPS
-    > git clone https://github.com/AIA-UnKNOWN/authors-text-editor.git
+    > git clone https://github.com/lReymarkANM/404.git
   * SSH
-    > git clone git@github.com:AIA-UnKNOWN/authors-text-editor.git
+    > git clone https://github.com/lReymarkANM/404.git
 * Go into the directory of the app by typing:
   > cd authors-text-editor
 * Install the dependencies of laravel using this command and wait for the installation:
