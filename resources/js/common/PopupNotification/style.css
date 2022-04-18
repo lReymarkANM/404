@@ -1,0 +1,15 @@
+.popup-notification {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 50%;
+    top: -100%;
+    z-index: 100;
+    transform: translateX(-50%);
+    transition: all 1s ease-in-out;
+}
+
+.show {
+    top: 20px;
+}

@@ -1,0 +1,4 @@
+.custom-input::placeholder {
+    font-size: 15px;
+    color: #808080;
+}
