@@ -1,4 +1,4 @@
-# Authors Text Editor
+# Authors Text Editor by : ReymarkANM
 
 The **Authors Text Editor** app can help you easily document and track the progress of your stories, researches, and documentation and more. This is also very helpful if your an author/writer because this app is made mainly for them.
 
