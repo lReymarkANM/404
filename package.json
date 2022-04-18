@@ -1,0 +1,39 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production",
+        "test:watch": "jest --config jest.config.js --watch",
+        "test": "jest --config jest.config.js"
+    },
+    "devDependencies": {
+        "@babel/preset-env": "^7.16.11",
+        "@babel/preset-react": "^7.16.7",
+        "@pmmmwh/react-refresh-webpack-plugin": "^0.5.4",
+        "axios": "^0.21",
+        "babel-jest": "^27.5.1",
+        "jest": "^27.5.1",
+        "laravel-mix": "^6.0.6",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "react-refresh": "^0.11.0",
+        "react-test-renderer": "^17.0.2",
+        "redux-mock-store": "^1.5.4",
+        "regenerator-runtime": "^0.13.9",
+        "tailwindcss": "^3.0.22"
+    },
+    "dependencies": {
+        "@reduxjs/toolkit": "^1.7.2",
+        "camelcase-keys": "^7.0.2",
+        "js-cookie": "^3.0.1",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-icons": "^4.3.1",
+        "react-redux": "^7.2.6"
+    }
+}
